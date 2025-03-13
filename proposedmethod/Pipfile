@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+conceptnet-lite = "*"
+javalang = "*"
+numpy = "*"
+anytree = "*"
+fasttext-wheel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
